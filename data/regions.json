@@ -1,0 +1,200 @@
+[
+  {
+    "id": "1",
+    "name": "北京",
+    "pinyin": "Beijing",
+    "variant": "Peking"
+  },
+  {
+    "id": "2",
+    "name": "上海",
+    "pinyin": "Shanghai"
+  },
+  {
+    "id": "3",
+    "name": "天津",
+    "pinyin": "Tianjin",
+    "variant": "Tientsin"
+  },
+  {
+    "id": "4",
+    "name": "重庆",
+    "pinyin": "Chongqing",
+    "variant": "Chungking"
+  },
+  {
+    "id": "5",
+    "name": "黑龙江",
+    "pinyin": "Heilongjiang",
+    "variant": "Heilungkiang"
+  },
+  {
+    "id": "6",
+    "name": "吉林",
+    "pinyin": "Jilin",
+    "variant": "Kirin"
+  },
+  {
+    "id": "7",
+    "name": "辽宁",
+    "pinyin": "Liaoning"
+  },
+  {
+    "id": "8",
+    "name": "河北",
+    "pinyin": "Hebei",
+    "variant": "Hopeh"
+  },
+  {
+    "id": "9",
+    "name": "河南",
+    "pinyin": "Henan",
+    "variant": "Honan"
+  },
+  {
+    "id": "10",
+    "name": "山东",
+    "pinyin": "Shandong",
+    "variant": "Shantung"
+  },
+  {
+    "id": "11",
+    "name": "山西",
+    "pinyin": "Shanxi",
+    "variant": "Shansi"
+  },
+  {
+    "id": "12",
+    "name": "陕西",
+    "pinyin": "Shaanxi",
+    "variant": "Shensi"
+  },
+  {
+    "id": "13",
+    "name": "甘肃",
+    "pinyin": "Gansu",
+    "variant": "Kansu"
+  },
+  {
+    "id": "14",
+    "name": "宁夏",
+    "pinyin": "Ningxia",
+    "variant": "Ningsia"
+  },
+  {
+    "id": "15",
+    "name": "江苏",
+    "pinyin": "Jiangsu",
+    "variant": "Kiangsu"
+  },
+  {
+    "id": "16",
+    "name": "浙江",
+    "pinyin": "Zhejiang",
+    "variant": "Chekiang"
+  },
+  {
+    "id": "17",
+    "name": "安徽",
+    "pinyin": "Anhui",
+    "variant": "Anhwei"
+  },
+  {
+    "id": "18",
+    "name": "江西",
+    "pinyin": "Jiangxi",
+    "variant": "Kiangsi"
+  },
+  {
+    "id": "19",
+    "name": "福建",
+    "pinyin": "Fujian",
+    "variant": "Fukien"
+  },
+  {
+    "id": "20",
+    "name": "湖北",
+    "pinyin": "Hubei",
+    "variant": "Hupeh"
+  },
+  {
+    "id": "21",
+    "name": "湖南",
+    "pinyin": "Hunan"
+  },
+  {
+    "id": "22",
+    "name": "四川",
+    "pinyin": "Sichuan",
+    "variant": "Szechuan"
+  },
+  {
+    "id": "23",
+    "name": "广东",
+    "pinyin": "Guangdong",
+    "variant": "Kwangtung"
+  },
+  {
+    "id": "24",
+    "name": "广西",
+    "pinyin": "Guangxi",
+    "variant": "Kwangsi"
+  },
+  {
+    "id": "25",
+    "name": "云南",
+    "pinyin": "Yunnan"
+  },
+  {
+    "id": "26",
+    "name": "贵州",
+    "pinyin": "Guizhou",
+    "variant": "Kweichow"
+  },
+  {
+    "id": "27",
+    "name": "青海",
+    "pinyin": "Qinghai",
+    "variant": "Tsinghai"
+  },
+  {
+    "id": "28",
+    "name": "内蒙古",
+    "pinyin": "Neimenggu",
+    "variant": "Inner Mongolia"
+  },
+  {
+    "id": "29",
+    "name": "新疆",
+    "pinyin": "Xinjiang",
+    "variant": "Sinkiang"
+  },
+  {
+    "id": "30",
+    "name": "西藏",
+    "pinyin": "Xizang",
+    "variant": "Tibet"
+  },
+  {
+    "id": "31",
+    "name": "海南",
+    "pinyin": "Hainan"
+  },
+  {
+    "id": "32",
+    "name": "香港",
+    "pinyin": "Xianggang",
+    "variant": "Hong Kong"
+  },
+  {
+    "id": "33",
+    "name": "澳门",
+    "pinyin": "Aomen",
+    "variant": "Macao"
+  },
+  {
+    "id": "53",
+    "name": "台湾",
+    "pinyin": "Taiwan"
+  }
+]
