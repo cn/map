@@ -7,8 +7,6 @@
 ## 可视化Demo
 Demo：[http://phyng.com/scrapy-stats/](http://phyng.com/scrapy-stats/)
 
-![demo](demo.png)
-
 ## 数据统计
 以2013年最新版为例
 
